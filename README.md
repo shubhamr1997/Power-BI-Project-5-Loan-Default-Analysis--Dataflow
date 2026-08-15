@@ -179,7 +179,7 @@ This page focuses on the relationship between applicant characteristics, credit 
 - Total Loan for Middle Age Adults by Mortgage / Dependents
 - Number of Loans by Education Type
 
-![Applicant Demographics & Financial Profile](images/Applicant-Demographics-&-Financial-Profile.png)
+![Applicant Demographics & Financial Profile](Images/Applicant-Demographics-&-Financial-Profile.png)
 
 
 ### DAX Measures Used
@@ -206,7 +206,7 @@ This page focuses on loan growth and default-risk measurements.
 - Loan Amount by Credit Score Bins and Marital Status
 - Income Bracket → Employment Type analysis
 
-![Financial Risk Metrics](images/Financial-Risk-Metrics.png)
+![Financial Risk Metrics](Images/Financial-Risk-Metrics.png)
 
 
 ### DAX Measures Used
@@ -241,7 +241,7 @@ This page provides a broader view of loan activity, income, and default rates.
 - Average Loan by Age Group
 - Default Rate by Year
 
-![Loan Default & Overview](images/Loan-Default-&-Overview.png)
+![Loan Default & Overview](Images/Loan-Default-&-Overview.png)
 
 
 ### DAX Measures Used
@@ -457,7 +457,7 @@ Loan-Default-Analysis/
 │
 ├── README.md
 ├── Loan-Default-Analysis.pbix
-└── images/
+└── Images/
     ├── applicant-demographics.png
     ├── financial-risk-metrics.png
     ├── loan-default-overview.png
