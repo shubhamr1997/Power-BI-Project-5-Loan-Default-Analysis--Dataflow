@@ -68,7 +68,7 @@ Three dedicated measure tables were created to organize measures according to th
 
 This structure keeps the model organized and separates measures based on their analytical purpose.
 
-![Data Model](images/data-model.png)
+![Data Model](Images/data-model.png)
 
 
 ---
