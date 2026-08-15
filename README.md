@@ -68,7 +68,8 @@ Three dedicated measure tables were created to organize measures according to th
 
 This structure keeps the model organized and separates measures based on their analytical purpose.
 
-![Data Model](images/data-model.png)
+<img width="1158" height="757" alt="Screenshot 2026-08-16 031736" src="https://github.com/user-attachments/assets/ab37353d-60cc-4deb-8bf1-3225c521383c" />
+
 
 ---
 
@@ -178,7 +179,8 @@ This page focuses on the relationship between applicant characteristics, credit 
 - Total Loan for Middle Age Adults by Mortgage / Dependents
 - Number of Loans by Education Type
 
-![Applicant Demographics & Financial Profile](images/applicant-demographics.png)
+<img width="1393" height="767" alt="Applicant Demographics   Financial Profile" src="https://github.com/user-attachments/assets/07b3f574-c560-4544-aadf-561aa017b0b6" />
+
 
 ### DAX Measures Used
 
@@ -204,7 +206,8 @@ This page focuses on loan growth and default-risk measurements.
 - Loan Amount by Credit Score Bins and Marital Status
 - Income Bracket → Employment Type analysis
 
-![Financial Risk Metrics](images/financial-risk-metrics.png)
+<img width="1391" height="773" alt="Financial Risk Metrics" src="https://github.com/user-attachments/assets/2357b6c8-0c4f-4d04-95fb-a71c0a848907" />
+
 
 ### DAX Measures Used
 
@@ -238,7 +241,8 @@ This page provides a broader view of loan activity, income, and default rates.
 - Average Loan by Age Group
 - Default Rate by Year
 
-![Loan Default & Overview](images/loan-default-overview.png)
+<img width="1392" height="757" alt="Loan Default   Overview" src="https://github.com/user-attachments/assets/0db28968-002d-46fd-b957-cf30bdb997ff" />
+
 
 ### DAX Measures Used
 
